@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 @ -0,0 +1,27 @@
+=======
+>>>>>>> 5f5f551635b2336c9f02907cfe85f060d271a185
 
 # Reyna Anahy Pérez Ángeles aka Rey Ángeles 
 
@@ -25,3 +28,7 @@ Enero 2023 Laboratorio IA.text. Centro de Cultura Digital.
 
 Abril 2022 Incubadora de Literatura Digital ILINU / ILIDI - Cooperación Quebec-México. TOPO centre de création numérique, Andamio Colectivo y Centro de Cultura Digital.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5f5f551635b2336c9f02907cfe85f060d271a185
